@@ -8,3 +8,8 @@
 
 Logo for the circle rithmastic game
 ![image](https://github.com/user-attachments/assets/fd4363d8-40c6-4ab1-b8b1-9c425116b651)
+
+![image](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/6151973a-f8b4-4828-bb65-8b9c4ed2e4a0.jpg)
+
+
+
