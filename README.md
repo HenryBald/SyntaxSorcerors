@@ -11,7 +11,7 @@ GitHub repository conributors
 
 Our Music Creation App Logo:
 
-![Running App](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Piano.png)
+![Running App](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/PianoReal.png)
  
 ### GIU Mockups
 
