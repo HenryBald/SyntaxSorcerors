@@ -13,5 +13,7 @@ Logo for the circle rithmastic game
 
 ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/288936b1-9749-4a5e-b784-3aa9b6a9dcfd.jpg)
 
+![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/c5eecbfb-3180-4a51-b497-bde4efa36d76.jpg)
+
 
 
