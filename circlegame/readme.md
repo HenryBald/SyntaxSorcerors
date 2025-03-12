@@ -4,3 +4,4 @@
 ![Drawing sketchpad](https://github.com/user-attachments/assets/45257920-c93b-477b-9023-4197f0a0a52c)
 
 ![Screenshot]https://github.com/HenryBald/SyntaxSorcerors/blob/main/circlegame/Screenshot%202025-03-12%20at%2012.35.23%20PM.png
+![Drawing sketchpad (1)](https://github.com/user-attachments/assets/52de7376-ca57-42d9-8047-cae66ba5d22e)
