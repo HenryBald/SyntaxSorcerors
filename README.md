@@ -10,6 +10,7 @@ GitHub repository conributors
   - For example a piano that inputs each sound when you press the specific key
 
 Our Music Creation App Logo:
+
 ![Running App](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Piano.png)
  
 ### GIU Mockups
