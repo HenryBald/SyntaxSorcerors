@@ -15,5 +15,6 @@ Our Music Creation App Logo:
 ![Running App](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Piano.png)
  
 ### GIU Mockups
-
+![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/music1Drums.png)
+![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/music2Piano.png)
     
