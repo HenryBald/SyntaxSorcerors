@@ -27,8 +27,6 @@
 
 ![image](https://github.com/user-attachments/assets/fd4363d8-40c6-4ab1-b8b1-9c425116b651)
 
-Zoe
-
 ## GIU Mockups
 William
 
