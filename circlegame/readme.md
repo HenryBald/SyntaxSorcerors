@@ -17,6 +17,12 @@
 ![Drawing sketchpad](https://github.com/user-attachments/assets/45257920-c93b-477b-9023-4197f0a0a52c)
 ![Drawing sketchpad (1)](https://github.com/user-attachments/assets/52de7376-ca57-42d9-8047-cae66ba5d22e)
 
+
+
+## Class Diagram for the Rithmastic duel simulator
+
+![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleClassDiagram.png)
+
 ### Logo for the circle rithmastic game
 
 ![image](https://github.com/user-attachments/assets/fd4363d8-40c6-4ab1-b8b1-9c425116b651)
