@@ -21,8 +21,9 @@
   - First we have a line of Vigor which is a offensive attack and to activate the user must draw a zig zag lines and the pointier the zig zag the more damage it inflicts on the oponnent.
   - Next there is the line of Forbiddance which is a defense that is placed infront of a circle and can stand 10 hits from the line of Vigor
   - Lastly there is the line of Warding which is a line that also defend system that gets its health depending on the curviness of the line, it can usually take 6 hits from the line of Vigor.
-Zoe  
-### Logo for the circle rithmastic game
+    
+  
+### Logo for the circle rithmastic game ( Zoe )
 
 ![image](https://github.com/user-attachments/assets/fd4363d8-40c6-4ab1-b8b1-9c425116b651)
 
@@ -35,15 +36,15 @@ William
 ![Drawing sketchpad (1)](https://github.com/user-attachments/assets/52de7376-ca57-42d9-8047-cae66ba5d22e)
 
 
-Santhosh
-## Class Diagram for the Rithmastic duel simulator
+
+## Class Diagram for the Rithmastic duel simulator ( Santhosh )
 
 ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleClassDiagram.png)
 
 
 
-William
-### Explainitory things and ideas
+
+### Explainitory things and ideas ( William )
 ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleGame1.png)
 
 ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleGame2.png)
