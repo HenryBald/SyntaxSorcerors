@@ -6,7 +6,7 @@
 * Zoe - Made the logo.
 
 ## Instruction and expalining the game.
-(William and Santhosh R)
+(William and Santhosh )
 * The Rithmatic duel simulator is a two player game that requires the users to draw a perfect circle to the best of their ability and use different formations of attack and defense to take down the oppositions circle.
   The program will start out with a start screen allowing the user to click on one of the three options
   * Instruction - a detailed explanation of the game
