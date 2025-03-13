@@ -10,7 +10,14 @@
   - Once both players have their circles and percentages their health becomes the percentage they recieve
   - Now the battle begins between the two users!
 * We have added one attacking system and two defending systems.
-  - First we have a line of 
+  - First we have a line of
+ 
+### Logo for the circle rithmastic game
+
+![image](https://github.com/user-attachments/assets/fd4363d8-40c6-4ab1-b8b1-9c425116b651)
+
+
+
 ## GIU Mockups
 ![Screenshot 2025-03-12 at 11 36 51 AM](https://github.com/user-attachments/assets/5b4ce382-c68a-445d-a232-bfbe177b96be)
 ![Drawing](https://github.com/user-attachments/assets/40b6471e-d076-4f8f-b812-98131846af52)
@@ -23,9 +30,8 @@
 
 ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleClassDiagram.png)
 
-### Logo for the circle rithmastic game
 
-![image](https://github.com/user-attachments/assets/fd4363d8-40c6-4ab1-b8b1-9c425116b651)
+
 
 ### Explainitory things and ideas
 ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleGame1.png)
