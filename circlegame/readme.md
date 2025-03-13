@@ -5,7 +5,8 @@
 * William - Worked on all 3 GIU mockups, added ideas and aswell as helped writing the instructions/ explaining the game.
 * Zoe - Made the logo.
 
-William and Santhosh R
+## Instruction and expalining the game.
+(William and Santhosh R)
 * The Rithmatic duel simulator is a two player game that requires the users to draw a perfect circle to the best of their ability and use different formations of attack and defense to take down the oppositions circle.
   The program will start out with a start screen allowing the user to click on one of the three options
   * Instruction - a detailed explanation of the game
