@@ -1,4 +1,11 @@
 # The Rithmatic Duel Simulator
+
+## Contributers 
+* Sathosh - Worked on class Diagram as well as helped writing the instruction/ explaining the game.
+* William - Worked on all 3 GIU mockups, added ideas and aswell as helped writing the instructions/ explaining the game.
+* Zoe - Made the logo.
+
+William and Santhosh R
 * The Rithmatic duel simulator is a two player game that requires the users to draw a perfect circle to the best of their ability and use different formations of attack and defense to take down the oppositions circle.
   The program will start out with a start screen allowing the user to click on one of the three options
   * Instruction - a detailed explanation of the game
@@ -10,14 +17,16 @@
   - Once both players have their circles and percentages their health becomes the percentage they recieve
   - Now the battle begins between the two users!
 * We have added one attacking system and two defending systems.
-  - First we have a line of
- 
+  - First we have a line of Vigor which is a offensive attack and to activate the user must draw a zig zag lines and the pointier the zig zag the more damage it inflicts on the oponnent.
+  - Next there is the line of Forbiddance which is a defense that is placed infront of a circle and can stand 10 hits from the line of Vigor
+  - Lastly there is the line of Warding which is a line that also defend system that gets its health depending on the curviness of the line, it can usually take 6 hits from the line of Vigor.
+Zoe  
 ### Logo for the circle rithmastic game
 
 ![image](https://github.com/user-attachments/assets/fd4363d8-40c6-4ab1-b8b1-9c425116b651)
 
 
-
+William
 ## GIU Mockups
 ![Screenshot 2025-03-12 at 11 36 51 AM](https://github.com/user-attachments/assets/5b4ce382-c68a-445d-a232-bfbe177b96be)
 ![Drawing](https://github.com/user-attachments/assets/40b6471e-d076-4f8f-b812-98131846af52)
@@ -25,14 +34,14 @@
 ![Drawing sketchpad (1)](https://github.com/user-attachments/assets/52de7376-ca57-42d9-8047-cae66ba5d22e)
 
 
-
+Santhosh
 ## Class Diagram for the Rithmastic duel simulator
 
 ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleClassDiagram.png)
 
 
 
-
+William
 ### Explainitory things and ideas
 ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleGame1.png)
 
