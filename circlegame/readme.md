@@ -1,7 +1,7 @@
 # The Rithmatic Duel Simulator
 
 ## Contributers 
-* Sathosh - Worked on class Diagram as well as helped writing the instruction/ explaining the game.
+* Santhosh - Worked on class Diagram as well as helped writing the instruction/ explaining the game.
 * William - Worked on all 3 GIU mockups, added ideas and aswell as helped writing the instructions/ explaining the game.
 * Zoe - Made the logo.
 
