@@ -1,8 +1,16 @@
 # The Rithmatic Duel Simulator
-* So the idea behind this game is to first allow the user to draw a perfect circle
+* The Rithmatic duel simulator is a two player game that requires the users to draw a perfect circle to the best of their ability and use different formations of attack and defense to take down the oppositions circle.
+  The program will start out with a start screen allowing the user to click on one of the three options
+  * Instruction - a detailed explanation of the game
+  * Practice - allows the user to practice making perfect circles
+  * Duel -
+ The instruction below will be for the actual main compenent of the game of dueling with another user.
+* The game will start out with each user taking turns to draw a perfect circle
   - then we will have a block of code that will check how close the user is to a perfect circle give pout a percentage to the user. This will be done for the opposition as well.
   - Once both players have their circles and percentages their health becomes the percentage they recieve
-  - Now the battle begins the two user
+  - Now the battle begins between the two users!
+* We have added one attacking system and two defending systems.
+  - First we have a line of 
 ## GIU Mockups
 ![Screenshot 2025-03-12 at 11 36 51 AM](https://github.com/user-attachments/assets/5b4ce382-c68a-445d-a232-bfbe177b96be)
 ![Drawing](https://github.com/user-attachments/assets/40b6471e-d076-4f8f-b812-98131846af52)
