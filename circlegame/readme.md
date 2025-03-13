@@ -22,11 +22,11 @@
 ![image](https://github.com/user-attachments/assets/fd4363d8-40c6-4ab1-b8b1-9c425116b651)
 
 ### Explainitory things and ideas
-![image](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/6151973a-f8b4-4828-bb65-8b9c4ed2e4a0.jpg)
+![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleGame1.png)
 
-![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/288936b1-9749-4a5e-b784-3aa9b6a9dcfd.jpg)
+![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleGame2.png)
 
-![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/c5eecbfb-3180-4a51-b497-bde4efa36d76.jpg)
+![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleGame3.png)
 
 
 
