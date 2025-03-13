@@ -1,5 +1,8 @@
 # The Rithmatic Duel Simulator
-
+* So the idea behind this game is to first allow the user to draw a perfect circle
+  - then we will have a block of code that will check how close the user is to a perfect circle give pout a percentage to the user. This will be done for the opposition as well.
+  - Once both players have their circles and percentages their health becomes the percentage they recieve
+  - Now the battle begins the two user
 ## GIU Mockups
 ![Screenshot 2025-03-12 at 11 36 51 AM](https://github.com/user-attachments/assets/5b4ce382-c68a-445d-a232-bfbe177b96be)
 ![Drawing](https://github.com/user-attachments/assets/40b6471e-d076-4f8f-b812-98131846af52)
