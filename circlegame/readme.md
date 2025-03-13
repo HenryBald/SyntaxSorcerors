@@ -10,17 +10,17 @@
 * The Rithmatic duel simulator is a two player game that requires the users to draw a perfect circle to the best of their ability and use different formations of attack and defense to take down the oppositions circle.
   The program will start out with a start screen allowing the user to click on one of the three options
   * Instruction - a detailed explanation of the game
-  * Practice - allows the user to practice making perfect circles
-  * Duel -
+  * Practice - allows the user to practice making perfect circles and lines
+  * Duel - The main playing part of the game, where you duel a friend
  The instruction below will be for the actual main compenent of the game of dueling with another user.
-* The game will start out with each user taking turns to draw a perfect circle
+* The game will start out with each user taking a turn to draw a perfect circle
   - then we will have a block of code that will check how close the user is to a perfect circle give pout a percentage to the user. This will be done for the opposition as well.
-  - Once both players have their circles and percentages their health becomes the percentage they recieve
+  - Once both players have their circles and percentages their health becomes the percentage they recieve. More perfect the circle, more health they recieve.
   - Now the battle begins between the two users!
 * We have added one attacking system and two defending systems.
-  - First we have a line of Vigor which is a offensive attack and to activate the user must draw a zig zag lines and the pointier the zig zag the more damage it inflicts on the oponnent.
-  - Next there is the line of Forbiddance which is a defense that is placed infront of a circle and can stand 10 hits from the line of Vigor
-  - Lastly there is the line of Warding which is a line that also defend system that gets its health depending on the curviness of the line, it can usually take 6 hits from the line of Vigor.
+  - First we have a line of Vigor which is a offensive attack and to activate the user must draw a zig zag lines and the pointier (looks like a higher frequency wave) the zig zag the more damage it inflicts on the oponnent.
+  - Next there is the line of Forbiddance which is a defense that is placed infront of a circle and can stand a few hits from the line of Vigor (the number of hits depends on accuracy
+  - Lastly there is the line of Warding which is a line that also defend system that gets its health depending on the curviness of the line, it can usually take 6 hits from the line of Vigor. The Line of Warding is the circle,  but with a fancier name.
     
   
 ### Logo for the circle rithmastic game ( Zoe )
