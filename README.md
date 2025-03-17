@@ -12,10 +12,10 @@ GitHub repository conributors
 
 Our Piano Keyboard App Logo:
 
-![Running App](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Piano.png)
+![Logo](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/keyboardLogo)
  ### GUI Mockups
 
-![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/keyboardStartScreen.png)
- ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Drums.png)
-![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/music2Piano.png)
+![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/keyboardStartScreen.png)
+ ![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Drums.png)
+![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/music2Piano.png)
     
