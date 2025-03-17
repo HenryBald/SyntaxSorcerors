@@ -4,12 +4,13 @@
   - For example a piano that inputs each sound when you press the specific key
 
 Our Piano Keyboard App Logo:
-
+(Reed)
 ![Logo](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/keyboardLogo)
  ## GUI Mockups
-
+(Santhosh)
 ![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/keyboardStartScreen.png)
  ![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Drums.png)
+ (Kirubashini)
 ![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/music2Piano.png)
 
 ## UML Document
