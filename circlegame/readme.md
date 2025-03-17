@@ -39,7 +39,7 @@ William
 
 ## Class Diagram for the Rithmastic duel simulator ( Santhosh )
 
-![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleClassDiagram.png)
+![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/circlegame/assets/circleClassDiagram.png)
 
 
 
