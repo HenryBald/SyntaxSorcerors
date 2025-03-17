@@ -10,11 +10,12 @@ GitHub repository conributors
 - We think we can implement the sound aspect of this using keycodes such as the ones used in the calculator app so each key represents a sound
   - For example a piano that inputs each sound when you press the specific key
 
-Our Music Creation App Logo:
+Our Piano Keyboard App Logo:
 
 ![Running App](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Piano.png)
- ### GIU Mockups
+ ### GUI Mockups
 
+![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/keyboardStartScreen.png)
  ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Drums.png)
 ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/music2Piano.png)
     
