@@ -7,8 +7,8 @@ Our Piano Keyboard App Logo:
 (Reed)
 ![Logo](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/keyboardLogo)
  ## GUI Mockups
-(Santhosh)
 ![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/keyboardStartScreen.png)
+(Santhosh)
  ![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Drums.png)
  (Kirubashini)
 ![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/music2Piano.png)
