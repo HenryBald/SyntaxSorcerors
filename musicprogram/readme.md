@@ -11,3 +11,6 @@ Our Piano Keyboard App Logo:
 ![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/keyboardStartScreen.png)
  ![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/Drums.png)
 ![GUImockup](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/music2Piano.png)
+
+## UML Document
+![UML](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/UMLKeyboard.png)
