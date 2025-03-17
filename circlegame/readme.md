@@ -1,5 +1,6 @@
 # The Rithmatic Duel Simulator
-Credit and Thanks to Brandon Sanderson and his book "The Rithmatist", which we strongly based our game off of. To learn more about the game, click here: [](https://coppermind.net/wiki/Rithmatics)
+Credit and Thanks to Brandon Sanderson and his book "The Rithmatist", which we strongly based our game off of. To learn more about the game, click here: 
+[ExplanitoryPage](https://coppermind.net/wiki/Rithmatics)
 
 ## Contributers 
 * Santhosh - Worked on class Diagram as well as helped writing the instruction/ explaining the game.
