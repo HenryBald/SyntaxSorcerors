@@ -45,7 +45,7 @@ William
 
 
 ### Explainitory things and ideas ( William )
-![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleGame1.png)
+![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/circlegame/assets/circleGame1.png)
 
 ![](https://github.com/HenryBald/SyntaxSorcerors/blob/main/musicprogram/assets/circleGame2.png)
 
